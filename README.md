@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anilkumr1997
+- 👋 Hi, I’m @Anilkumar1997
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN-Stack Development
 - 💞️ I’m looking to collaborate on Web Developer
